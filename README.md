@@ -36,17 +36,21 @@ Welcome to my GitHub profile! I'm Christian Bianchi, an AI and robotics master's
 
 ## 🌟 Key Projects
 
-### [1. Advent of Code 2024](https://github.com/Fascetta/AdventOfCode2024)
-**Description**: Solutions to the Advent of Code 2024 programming puzzles, crafted with an AI perspective.
+### [1. Super Resolution Using Quave](https://github.com/Fascetta/StableSR)
+**Description**: Explored super-resolution techniques by applying Quave as a preprocessing step and using StableSR as a baseline.
+Currently under review for publication.
 
-### [2. Deep Learning Pipelines](https://github.com/Fascetta/DeepLearningPipelines)
+### [2. Car Racing](https://github.com/Fascetta/CarRacing)
+**Description**: Image-based model that autonomously drives a car in a Gymnasium environment, training on real-time sensor data for various racing scenarios.
+
+### [3. Robot Kinematics](https://github.com/Fascetta/RobotKinematics)
+**Description**: Regression model in TensorFlow to perform forward & inverse kinematics, integrating deep reinforcement learning for robotic motion planning.
+
+### [4. Deep Learning Pipelines](https://github.com/Fascetta/DeepLearningPipelines)
 **Description**: Templates and tools for building scalable deep learning models.
 
-### [3. KYC - Know Your Cards](https://github.com/u-siri-ous/KYC)
+### [5. KYC - Know Your Cards](https://github.com/Fascetta/KYC)
 **Description**: A game card grader and classifier using computer vision techniques.
-
-### [4. Playing Around with OpenCV](https://github.com/Fascetta/Playing-around-with-cv2)
-**Description**: Experiments and projects utilizing OpenCV for image processing.
 
 ---
 
@@ -66,7 +70,7 @@ Welcome to my GitHub profile! I'm Christian Bianchi, an AI and robotics master's
 ## 📫 Get in Touch
 
 - LinkedIn: [linkedin.com/in/christianbianchiit](https://www.linkedin.com/in/christianbianchiit)
-- Portfolio: [codolio.com/profile/Fascetta](https://codolio.com/profile/Fascetta)
+- Portfolio: [fascetta.github.io](https://fascetta.github.io)
 
 ---
 
