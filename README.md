@@ -1,12 +1,20 @@
-# Christian Bianchi
 
-🎓 **AI & Robotics Master's Student at Sapienza University** | 💻 **Software Engineer at HCL Software** | 🚀 **Innovator and Cat Enthusiast**
+<h1 align="center">Hi there, I'm Christian Bianchi 👋</h1>
+
+<p align="center">
+  🎓 <b>AI & Robotics Master's Student</b> at Sapienza University<br>
+  💻 <b>Software Engineer</b> at HCL Software<br>
+  🚀 Passionate about <b>Computer Vision, Robotics,</b> and <b>Generative AI</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christianbianchiit/"><img src="https://img.shields.io/badge/LinkedIn-Christian%20Bianchi-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://fascetta.github.io/"><img src="https://img.shields.io/badge/Portfolio-fascetta.github.io-orange?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-Welcome to my GitHub profile! I'm Christian Bianchi, an AI and robotics master's student at Sapienza University and a software engineer at HCL Software. I specialize in computer vision, machine learning, and robotics, with hands-on experience in Python, R, C++, and frameworks like PyTorch and TensorFlow. My passion lies in adopting innovative solutions and, of course, caring for my kitten.
 
----
 
 ## 🔭 Current Focus
 
@@ -14,6 +22,27 @@ Welcome to my GitHub profile! I'm Christian Bianchi, an AI and robotics master's
 - **Generative AI**: Exploring neural style transfer and creative AI applications.
 - **AI Infrastructure Analytics**: Leveraging AI to optimize infrastructure and development workflows.
 - **Kaggle Competitions**: Enhancing skills through real-world machine learning challenges.
+
+---
+
+## 🌟 Key Projects
+
+### [1. Super Resolution Using Quave](https://github.com/Fascetta/StableSR)
+![Demo](https://github.com/Fascetta/StableSR/demo.gif)
+**Description**: Explored super-resolution techniques by applying Quave as a preprocessing step and using StableSR as a baseline.
+Currently under review for publication.
+
+### [2. Car Racing](https://github.com/Fascetta/CarRacing)
+**Description**: Image-based model that autonomously drives a car in a Gymnasium environment, training on real-time sensor data for various racing scenarios.
+
+### [3. Robot Kinematics](https://github.com/Fascetta/RobotKinematics)
+**Description**: Regression model in TensorFlow to perform forward & inverse kinematics, integrating deep reinforcement learning for robotic motion planning.
+
+### [4. Deep Learning Pipelines](https://github.com/Fascetta/DeepLearningPipelines)
+**Description**: Templates and tools for building scalable deep learning models.
+
+### [5. KYC - Know Your Cards](https://github.com/Fascetta/KYC)
+**Description**: A game card grader and classifier using computer vision techniques.
 
 ---
 
@@ -31,26 +60,6 @@ Welcome to my GitHub profile! I'm Christian Bianchi, an AI and robotics master's
 - Robotics Programming & Autonomous Driving
 - Multilingual NLP
 - Data Analysis & Visualization
-
----
-
-## 🌟 Key Projects
-
-### [1. Super Resolution Using Quave](https://github.com/Fascetta/StableSR)
-**Description**: Explored super-resolution techniques by applying Quave as a preprocessing step and using StableSR as a baseline.
-Currently under review for publication.
-
-### [2. Car Racing](https://github.com/Fascetta/CarRacing)
-**Description**: Image-based model that autonomously drives a car in a Gymnasium environment, training on real-time sensor data for various racing scenarios.
-
-### [3. Robot Kinematics](https://github.com/Fascetta/RobotKinematics)
-**Description**: Regression model in TensorFlow to perform forward & inverse kinematics, integrating deep reinforcement learning for robotic motion planning.
-
-### [4. Deep Learning Pipelines](https://github.com/Fascetta/DeepLearningPipelines)
-**Description**: Templates and tools for building scalable deep learning models.
-
-### [5. KYC - Know Your Cards](https://github.com/Fascetta/KYC)
-**Description**: A game card grader and classifier using computer vision techniques.
 
 ---
 
