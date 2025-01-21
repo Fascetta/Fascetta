@@ -27,7 +27,7 @@
 
 ## 🌟 Key Projects
 
-### [1. Super Resolution Using Quave](https://github.com/Fascetta/StableSR)
+### [1. QuaveSR](https://github.com/Fascetta/QuaveSR)
 ![Demo](https://github.com/Fascetta/StableSR/demo.gif)
 **Description**: Explored super-resolution techniques by applying Quave as a preprocessing step and using StableSR as a baseline.
 Currently under review for publication.
