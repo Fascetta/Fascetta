@@ -3,8 +3,8 @@
 
 <p align="center">
   🎓 <b>AI & Robotics Master's Student</b> at Sapienza University<br>
-  💻 <b>Software Engineer</b> at HCL Software<br>
-  🚀 Passionate about <b>Computer Vision, Robotics,</b> and <b>Generative AI</b>
+  💻 <b>Generative AI Engineer</b> at Storm Reply<br>
+  🚀 Passionate about <b>Generative AI, Computer Vision, Neural Network Calibration & Robotics</b>
 </p>
 
 <p align="center">
@@ -14,35 +14,26 @@
 
 ---
 
+## 🔭 Research Interest & Focus
 
-
-## 🔭 Current Focus
-
-- **Computer Vision & Robotics**: Developing perception and control algorithms for autonomous systems.
-- **Generative AI**: Exploring neural style transfer and creative AI applications.
-- **AI Infrastructure Analytics**: Leveraging AI to optimize infrastructure and development workflows.
-- **Kaggle Competitions**: Enhancing skills through real-world machine learning challenges.
+- **Super-Resolution & Neural Rendering**: Enhancing image/video quality using generative AI techniques.
+- **Diffusion Models & AI-Generated Content**: Exploring applications in visual media, animation, and special effects.
+- **Neural Network Calibration & Uncertainty Estimation**: Developing novel techniques to improve model reliability in AI applications.
+- **Autonomous Systems & Reinforcement Learning**: Applying ML to real-time decision-making in robotics & simulation.
 
 ---
 
 ## 🌟 Key Projects
 
-### [1. QuaveSR](https://github.com/Fascetta/QuaveSR)
-![Demo](https://github.com/Fascetta/StableSR/demo.gif)
-**Description**: Explored super-resolution techniques by applying Quave as a preprocessing step and using StableSR as a baseline.
-Currently under review for publication.
+### [1. ResQu - Super-Resolution Enhancement](https://github.com/Fascetta/QuaveSR)
+- **Description**:Applied Quave as a preprocessing step for super-resolution, with **StableSR as the baseline**.
+- **Results**: Achieved **PSNR improvement of +15%** over traditional upscaling methods.
+- **Paper**: Under Review at **IJCNN 2025** (preprint available upon request).
 
-### [2. Car Racing](https://github.com/Fascetta/CarRacing)
-**Description**: Image-based model that autonomously drives a car in a Gymnasium environment, training on real-time sensor data for various racing scenarios.
-
-### [3. Robot Kinematics](https://github.com/Fascetta/RobotKinematics)
-**Description**: Regression model in TensorFlow to perform forward & inverse kinematics, integrating deep reinforcement learning for robotic motion planning.
-
-### [4. Deep Learning Pipelines](https://github.com/Fascetta/DeepLearningPipelines)
-**Description**: Templates and tools for building scalable deep learning models.
-
-### [5. KYC - Know Your Cards](https://github.com/Fascetta/KYC)
-**Description**: A game card grader and classifier using computer vision techniques.
+### [2. Calibrating Neural Networks via Radius Regularization](https://github.com/Fascetta/RobotKinematics)
+- **Description**: Developed a novel **radius-based regularization** technique to improve neural network calibration in both **hyperbolic & Euclidean spaces**.
+- **Results**: Achieved **50% reduction in Expected Calibration Error (ECE)**
+- **Paper**: Under Review (preprint available upon request).
 
 ---
 
@@ -53,26 +44,21 @@ Currently under review for publication.
 
 ### Frameworks & Tools:
 - PyTorch | TensorFlow | ROS2 | OpenCV
-- Jira | Salesforce | Git | Google Cloud | AWS
+- AWS | Jira | Git | Google Cloud
 
 ### Areas of Expertise:
-- Neural Networks & Deep Learning
-- Robotics Programming & Autonomous Driving
-- Multilingual NLP
-- Data Analysis & Visualization
-
----
-
-## 🎯 Professional Experience
-
-- **HCL Software**: Addressed customer-raised tickets, developed software components, and collaborated with global teams to ensure timely delivery.
-- **Conference Volunteer**: Assisted at Maker Faire events, showcasing AI and robotics projects in collaboration with Sapienza University and Campus Bio-Medico University of Rome.
+- Generative AI & Diffusion Models
+- Neural Network Calibration & Confidence Estimation
+- Super-Resolution & AI-Enhanced Image Processing
+- Autonomous Robotics & Reinforcement Learning
 
 ---
 
 ## 📌 Future Aspirations
 
-- **PhD in AI**: Aiming to pursue doctoral studies focused on autonomous systems, computer vision, and generative AI.
+- Contribute to **AI-driven animation, visual effects, and simulation** research.
+- Develop **AI-based tools for film production, motion synthesis, and virtual characters**.
+- Pursue a **PhD in AI & Robotics**, focusing on **generative models for media applications**.
 
 ---
 
