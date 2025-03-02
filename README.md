@@ -30,7 +30,7 @@
 - **Results**: Achieved **PSNR improvement of +15%** over traditional upscaling methods.
 - **Paper**: Under Review at **IJCNN 2025** (preprint available upon request).
 
-### [2. Calibrating Neural Networks via Radius Regularization](https://github.com/Fascetta/RobotKinematics)
+### [2. Calibrating Neural Networks via Radius Regularization](https://github.com/Fascetta/CPHNN)
 - **Description**: Developed a novel **radius-based regularization** technique to improve neural network calibration in both **hyperbolic & Euclidean spaces**.
 - **Results**: Achieved **50% reduction in Expected Calibration Error (ECE)**
 - **Paper**: Under Review (preprint available upon request).
