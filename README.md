@@ -25,7 +25,7 @@
 
 ## 🌟 Key Projects
 
-### [1. ResQu - Quaternion Wavelet-Conditioned Diffusion for Super-Resolution](https://github.com/Fascetta/QuaveSR)
+### [1. ResQu - Quaternion Wavelet-Conditioned Diffusion for Super-Resolution](https://github.com/Fascetta/ResQu)
 - **Description**:Applied Quave as a preprocessing step for super-resolution, with **StableSR as the baseline**.
 - **Results**: Achieved **PSNR improvement of +15%** over traditional upscaling methods.
 - **Paper**: Under Review at **IJCNN 2025** (preprint available upon request).
