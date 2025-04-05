@@ -28,7 +28,7 @@
 ### [1. ResQu - Quaternion Wavelet-Conditioned Diffusion for Super-Resolution](https://github.com/Fascetta/ResQu)
 - **Description**:Applied Quave as a preprocessing step for super-resolution, with **StableSR as the baseline**.
 - **Results**: Achieved **PSNR improvement of +15%** over traditional upscaling methods.
-- **Paper**: Under Review at **IJCNN 2025** (preprint available upon request).
+- **Paper**: Accepted at **IJCNN 2025** (preprint available upon request).
 
 ### [2. Calibrating Neural Networks via Radius Regularization](https://github.com/Fascetta/CPHNN)
 - **Description**: Developed a novel **radius-based regularization** technique to improve neural network calibration in both **hyperbolic & Euclidean spaces**.
