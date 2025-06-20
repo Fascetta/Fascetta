@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <b>AI & Robotics Master's Student</b> at Sapienza University<br>
-  🧠 <b>Researcher in Generative AI & Robotics</b>, collaborating with UC Berkeley and Panasonic<br>
+  🧠 Researcher in Generative AI & Robotics<br>
   💻 Former <b>Generative AI Engineer</b> at Storm Reply<br>
   🎥 Passionate about <b>Computer Vision, Generative Modeling, Realism & Intelligent Embodied Agents</b>
 </p>
