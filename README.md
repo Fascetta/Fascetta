@@ -3,7 +3,7 @@
 <p align="center">
   🎓 <b>AI & Robotics Master's Student</b> at Sapienza University<br>
   🧠 Researcher in Generative AI & Robotics<br>
-  💻 Former <b>Generative AI Engineer</b> at Storm Reply<br>
+  💻 Former <b>Generative AI Engineer</b><br>
   🎥 Passionate about <b>Computer Vision, Generative Modeling, Realism & Intelligent Embodied Agents</b>
 </p>
 
