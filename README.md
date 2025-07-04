@@ -10,7 +10,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/christianbianchiit/"><img src="https://img.shields.io/badge/LinkedIn-Christian%20Bianchi-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://fascetta.github.io/"><img src="https://img.shields.io/badge/Portfolio-fascetta.github.io-orange?style=flat-square&logo=github"></a>
+  <a href="https://huggingface.co/Fascetta"><img src="https://img.shields.io/badge/HuggingFace-Fascetta-yellow?style=flat-square&logo=huggingface&logoColor=black"></a>
 </p>
+
 
 ---
 
@@ -38,33 +40,32 @@
 
 ---
 
-## 🛠️ Technical Stack
-
-**Languages**: Python · C++ · R · C · Assembly  
-**Frameworks**: PyTorch · TensorFlow · ROS2 · OpenCV  
-**Tools**: Git · AWS · GCP · Jira · Docker  
-
-**Expertise**:
-- Generative Models & Diffusion
-- Computer Vision & Neural Rendering
-- Calibration & Uncertainty Estimation
-- Autonomous Robotics & Simulation
+**Core Expertise**
+- Generative Models (Diffusion, Latent Models, Transformers)
+- Computer Vision & Neural Rendering (SR, View Synthesis, 3D Consistency)
+- Calibration, Uncertainty & Model Introspection
+- Embodied AI, Robotics & Simulation Environments (Genesis, Mujoco)
 
 ---
 
 ## 🎯 Future Directions
 
-- Conduct research at the intersection of **AI and entertainment**: simulation, animation, VFX, virtual characters.
-- Apply generative vision models to **embodied agents** and interactive systems.
-- Pursue a **PhD in AI/Robotics or Computer Vision**, with long-term goal of joining **Disney Research Studio** or similar applied research labs.
+- Build **generative world models** for interactive agents and simulated environments.
+- Explore the intersection of **AI, simulation, and entertainment**: animation, VFX, virtual beings.
+- Push forward **realistic, controllable video generation** and multimodal grounding.
+- Pursue a **PhD in AI, Robotics, or Computer Vision**, aiming to collaborate with top-tier research studios like **Disney Research** or similar applied labs bridging creativity and intelligence.
 
 ---
+
 
 ## 📫 Get in Touch
 
 - 🌐 Portfolio: [fascetta.github.io](https://fascetta.github.io)
 - 🔗 LinkedIn: [linkedin.com/in/christianbianchiit](https://www.linkedin.com/in/christianbianchiit)
+- 🤗 Hugging Face: [huggingface.co/Fascetta](https://huggingface.co/Fascetta)
+
 
 ---
 
-Let’s build the future of intelligent, creative machines.
+> *"Any sufficiently advanced technology is indistinguishable from magic."*  
+> — **Arthur C. Clarke**
