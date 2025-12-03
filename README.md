@@ -39,7 +39,7 @@ Key areas of interest include:
 
 ## 🎯 Career Goals & Future Work
 
-I am preparing to pursue a **PhD in AI, Robotics, or Computer Vision**. In support of this goal, I have planned research visits to top institutions, including a 4-month stay at **UC Berkeley (BAIR Lab)** and a 1-year Erasmus at the **University of Tübingen (MPI-IS & Cyber Valley)**.
+I am preparing to pursue a **PhD in AI, Robotics, or Computer Vision**.
 
 My long-term ambition is to contribute to a leading applied research lab to bridge the gap between foundational AI research and its application in creative media and interactive entertainment.
 
