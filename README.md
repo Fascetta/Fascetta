@@ -17,7 +17,7 @@ Currently, I am building end-to-end speech and vision pipelines for social robot
 #### **Quaternion Wavelet Diffusion for Image Super-Resolution** (IJCNN 2025 Oral)
 *   **Focus:** Hypercomplex Deep Learning & Generative Media.
 *   **Contribution:** Pioneered a quaternion wavelet-conditioned diffusion model achieving **SOTA results** (2.4% PSNR/SSIM improvement).
-*   **Code:** [Link to Repo if public]
+*   **Code:** [ResQu](https://github.com/Fascetta/ResQu)
 
 #### **Calibrating Neural Networks via Radius Regularization** (B.Sc. Thesis)
 *   **Focus:** Reliability & Confidence Calibration.
