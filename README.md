@@ -1,53 +1,67 @@
-<h1 align="center">Hi there, I'm Christian Bianchi 👋</h1>
+# Hi there, I'm Christian Bianchi 👋
 
-<p align="center">
-  M.Sc. AI Student & Researcher @ Sapienza University of Rome<br>
-  Researching Generative AI & Robotics at <b>ItalAI Labs</b> & <b>PINLAB</b><br>
-  Passionate about building intelligent agents that see, understand, and interact with the world.
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/christianbianchiit/"><img src="https://img.shields.io/badge/LinkedIn-Christian%20Bianchi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/Fascetta"><img src="https://img.shields.io/badge/GitHub-Fascetta-black?style=flat-square&logo=github"></a>
-  <a href="https://huggingface.co/Fascetta"><img src="https://img.shields.io/badge/HuggingFace-Fascetta-yellow?style=flat-square&logo=huggingface&logoColor=black"></a>
-</p>
+**R&D Engineer @ ItalAI Labs | M.Sc. AI & Data Science @ Sapienza University**
 
+I am a researcher and engineer bridging the gap between **theoretical deep learning** and **production-grade AI systems**. My work focuses on Multimodal AI, Hypercomplex models, and Embodied AI (Robotics).
+
+Currently, I am building end-to-end speech and vision pipelines for social robotics at **ItalAI Labs** and conducting research on VLA models at **PINLAB**.
 
 ---
 
-### Research Interests
+### 🔬 Research Highlights
 
-My research focuses on the intersection of generative models, computer vision, and robotics.
-Key areas of interest include:
-- **Generative Computer Vision**: Exploring diffusion models, neural rendering, and 3D-aware synthesis for realistic and controllable content creation.
-- **Embodied AI & Robotics**: Developing Vision-Language-Action (VLA) models that leverage generative priors for robust interaction and world understanding.
-- **Efficient & Reliable AI**: Optimizing models for real-time performance and improving confidence calibration, particularly through novel geometric approaches.
+#### **Dynamic Policy Adaptation for VLAs via LoRA Generation** (In Prep for ICML 2026)
+*   **Focus:** Meta-learning framework for PI0.5 Vision-Language-Action models.
+*   **Contribution:** Designed a generator that predicts weight trajectories for task-specific LoRA adapters from single visual embeddings, enabling instant adaptation to unseen tasks.
 
----
+#### **Quaternion Wavelet Diffusion for Image Super-Resolution** (IJCNN 2025 Oral)
+*   **Focus:** Hypercomplex Deep Learning & Generative Media.
+*   **Contribution:** Pioneered a quaternion wavelet-conditioned diffusion model achieving **SOTA results** (2.4% PSNR/SSIM improvement).
+*   **Code:** [Link to Repo if public]
 
-## 🌟 Selected Publications & Projects
-
-### [1. Quaternion Wavelet-Conditioned Diffusion for Super-Resolution](https://github.com/Fascetta/ResQu)
-- **Publication**: IJCNN 2025 (Oral Presentation) — [ArXiv](https://arxiv.org/abs/2505.00334).
-- **Contribution**: Developed a quaternion wavelet-conditioned diffusion model that achieved state-of-the-art results in image super-resolution, improving PSNR/SSIM by 2.4% over prior methods.
-
-
-### [2. Calibrating Neural Networks via Radius Regularization](https://github.com/Fascetta/CPHNN)
-- **Contribution**: As part of my Bachelor's thesis, I proposed a novel hyperbolic radius-based method for confidence calibration.
-- **Impact**: Reduced Expected Calibration Error (ECE) by **50% on CIFAR-100** and **33% on TinyImageNet**.
+#### **Calibrating Neural Networks via Radius Regularization** (B.Sc. Thesis)
+*   **Focus:** Reliability & Confidence Calibration.
+*   **Contribution:** Proposed hyperbolic radius-based calibration reducing Expected Calibration Error (ECE) by **50%** on CIFAR-100.
+*   **Code:** [Radius-Regularization](https://github.com/Fascetta/Radius-Regularization)
 
 ---
 
-## 🎯 Career Goals & Future Work
+### 🛠 Engineering & Industry Experience
 
-I am preparing to pursue a **PhD in AI, Robotics, or Computer Vision**.
+**Generative AI Engineer @ F1 Consulting**
+*   Architected a **multi-agent LLM assistant** (8+ agents) for *Aeroporti di Roma*.
+*   Optimized LLM latency by **75%** using semantic caching and embedding pruning.
+*   Built real-time, interruptible voice pipelines using ASR and streamed TTS.
 
-My long-term ambition is to contribute to a leading applied research lab to bridge the gap between foundational AI research and its application in creative media and interactive entertainment.
+**Software Engineer @ HCL Software**
+*   🏆 **Maverick Award Winner** (Awarded to top 4/100+ engineers).
+*   Built an internal **RAG system** reducing debugging time by 40%.
+*   Refactored legacy C/HLASM codebases, eliminating 30% code duplication.
 
 ---
 
+### 💻 Tech Stack
 
-## 📫 Get in Touch
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-- 🔗 LinkedIn: [linkedin.com/in/christianbianchiit](https://www.linkedin.com/in/christianbianchiit)
-- 🤗 Hugging Face: [huggingface.co/Fascetta](https://huggingface.co/Fascetta)
+**AI & ML Frameworks**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-339933?style=flat)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📫 Get in Touch
+*   **LinkedIn:** [linkedin.com/in/christianbianchiit](https://www.linkedin.com/in/christianbianchiit/)
+*   **Email:** ch.bianchi02@gmail.com
