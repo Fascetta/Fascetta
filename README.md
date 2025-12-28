@@ -14,6 +14,11 @@ Currently, I am building end-to-end speech and vision pipelines for social robot
 *   **Focus:** Meta-learning framework for PI0.5 Vision-Language-Action models.
 *   **Contribution:** Designed a generator that predicts weight trajectories for task-specific LoRA adapters from single visual embeddings, enabling instant adaptation to unseen tasks.
 
+#### **Motion Unlearning for Safer Diffusion-Based Motion Generation**
+*   **Focus:** AI Safety & Machine Unlearning.
+*   **Contribution:** Developed a framework to erase unwanted concepts (e.g., "kick") from 3D motion generation diffusion-based models, adapting state-of-the-art unlearning methods for safer AI.
+*   **Code:** [Motion-Unlearning-Evaluation](https://github.com/Fascetta/Motion-Unlearning-Evaluation)
+
 #### **Quaternion Wavelet Diffusion for Image Super-Resolution** (IJCNN 2025 Oral)
 *   **Focus:** Hypercomplex Deep Learning & Generative Media.
 *   **Contribution:** Pioneered a quaternion wavelet-conditioned diffusion model achieving **SOTA results** (2.4% PSNR/SSIM improvement).
@@ -21,7 +26,7 @@ Currently, I am building end-to-end speech and vision pipelines for social robot
 
 #### **Calibrating Neural Networks via Radius Regularization** (B.Sc. Thesis)
 *   **Focus:** Reliability & Confidence Calibration.
-*   **Contribution:** Proposed hyperbolic radius-based calibration reducing Expected Calibration Error (ECE) by **50%** on CIFAR-100.
+*   **Contribution:** Proposed a hyperbolic radius-based calibration reducing Expected Calibration Error (ECE) by **50%** on CIFAR-100.
 *   **Code:** [Radius-Regularization](https://github.com/Fascetta/Radius-Regularization)
 
 ---
