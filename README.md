@@ -13,6 +13,7 @@ Currently, I am building end-to-end speech and vision pipelines for social robot
 #### **Dynamic Policy Adaptation for VLAs via LoRA Generation** (In Prep for ICML 2026)
 *   **Focus:** Meta-learning framework for PI0.5 Vision-Language-Action models.
 *   **Contribution:** Designed a generator that predicts weight trajectories for task-specific LoRA adapters from single visual embeddings, enabling instant adaptation to unseen tasks.
+*   *   **Code:** [Still a working in progress 🚧]()
 
 #### **Motion Unlearning for Safer Diffusion-Based Motion Generation**
 *   **Focus:** AI Safety & Machine Unlearning.
