@@ -39,6 +39,10 @@ Currently, I am building end-to-end spatial-audio interaction engines for embodi
 
 ### 🛠 Engineering & Industry Experience
 
+**R&D Scientist @ ItalAI Labs** (June 2025 – Present) 
+* Architected a **hardware-embodied audio-spatial interaction engine**, integrating real-time **speaker diarization** and **directional tracking** to enable seamless multiparty engagement for social robots.
+* Engineered a **persistent memory architecture** utilizing dynamic per-persona context buffers to maintain conversational state and interaction history across **long-horizon temporal sessions**.
+
 **Generative AI Engineer @ F1 Consulting**
 * Architected a **DAG-based multi-agent LLM orchestration system** (8+ specialized agents) for *Aeroporti di Roma* to handle non-linear reasoning paths.
 * Optimized LLM retrieval latency by **75%** using semantic caching, embedding pruning, and efficient context-injection.
