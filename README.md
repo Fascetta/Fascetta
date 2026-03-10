@@ -11,11 +11,11 @@ Currently, I am building end-to-end spatial-audio interaction engines for embodi
 
 ### 🔬 Research Highlights
 
-#### **Dynamic Meta-Learning Framework for VLA Models**
-* **Status:** *Under Review*
+#### **Robotic Policy Adaptation via Weight-Space Meta-Learning**
+* **Status:** *Polishing codebase*
 * **Focus:** Weight-Space Meta-Learning & Embodied AI.
 * **Contribution:** Engineered a parameter-generation system that creates task-specific adapters (LoRA) from visual inputs. The framework enables zero-shot adaptation for large-scale robotic policies without test-time optimization.
-* **Code:** *Repository private.*
+* **Code:** *[WIZARD](https://github.com/Fascetta/WIZARD)*
 
 #### **Motion Unlearning for Safer Diffusion-Based Generation**
 * **Status:** *Academic Project*
