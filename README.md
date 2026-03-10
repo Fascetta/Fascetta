@@ -15,10 +15,10 @@ Currently, I am building end-to-end spatial-audio interaction engines for embodi
 * **Status:** *Under Review*
 * **Focus:** Weight-Space Meta-Learning & Embodied AI.
 * **Contribution:** Engineered a parameter-generation system that creates task-specific adapters (LoRA) from visual inputs. The framework enables zero-shot adaptation for large-scale robotic policies without test-time optimization.
-* **Code:** *Repository private during peer review.*
+* **Code:** *Repository private.*
 
 #### **Motion Unlearning for Safer Diffusion-Based Generation**
-* **Status:** *Academic Project / Future Submission*
+* **Status:** *Academic Project*
 * **Focus:** AI Safety & Machine Unlearning.
 * **Contribution:** Engineered a framework to selectively erase restricted concepts (e.g., "kick", "fall") from 3D motion generation models. Adapted state-of-the-art unlearning methods (ESD, LoRA, UCE) for Skeleton-Aware Latent Diffusion (SALAD).
 * **Code:** [Motion-Unlearning-Evaluation](https://github.com/Fascetta/Motion-Unlearning-Evaluation)
