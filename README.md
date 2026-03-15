@@ -1,10 +1,10 @@
 # Hi there, I'm Christian Bianchi 👋
 
-**R&D Scientist @ ItalAI Labs | M.Sc. Computer Science @ Sapienza University**
+**R&D Scientist @ ItalAI | M.Sc. Computer Science @ Sapienza University**
 
 I am a researcher and engineer bridging the gap between **theoretical deep learning** and **production-grade AI systems**. My work focuses on Multimodal AI, Hypercomplex Models, and Embodied AI (Robotics), with a specific emphasis on making models highly efficient and adaptable. 
 
-Currently, I am building end-to-end spatial-audio interaction engines for embodied social robots at **ItalAI Labs** and conducting research on Vision-Language-Action (VLA) models at **PINLAB**.
+Currently, I am building end-to-end spatial-audio interaction engines for embodied social robots at **ItalAI** and conducting research on Vision-Language-Action (VLA) models at **PINLAB**.
 
 
 ---
