@@ -16,7 +16,7 @@ Currently, I am a visiting researcher in the **Autonomous Learning Group at the 
 * **Status:** *CoRL 2026 Workshop · poster at ICVSS 2026*
 * **Focus:** Weight-space meta-learning & embodied AI.
 * **Contribution:** A meta-network that generates task-specific LoRA adapters for a frozen VLA policy from a language instruction and one unlabeled demonstration, with no test-time optimization. Raised held-out LIBERO-Spatial success from 19% (fine-tuned π0.5) to 40%, and from 17% to 37% on a real Franka Emika Panda.
-* **Paper:** [arXiv:2606.07217](https://arxiv.org/abs/2606.07217) · **Code:** [WIZARD](https://github.com/Fascetta/WIZARD)
+* **Paper:** [arXiv:2606.07217](https://arxiv.org/abs/2606.07217) · **Project page:** [fascetta.github.io/WIZARD](https://fascetta.github.io/WIZARD/)
 
 #### **SPELL: Long-Horizon Compositional Manipulation via Meta-Network Dynamic Adaptation**
 * **Status:** *Preprint*
